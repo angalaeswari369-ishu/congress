@@ -1,0 +1,16 @@
+{
+  "congress": "ECCO",
+  "journal": "Journal of Crohn's and Colitis",
+  "supplement_url": "https://academic.oup.com/ecco-jcc/issue/20/Supplement_1",
+  "year": 2026,
+  "volume": "20",
+  "publication_year_used": 2026,
+  "issue": "Supplement_1",
+  "screened_journal_records": 1738,
+  "matched_supplement_records": 1583,
+  "unique_dois": 1583,
+  "successful_with_abstract": 1583,
+  "incomplete": 0,
+  "generated_utc": "2026-10-16T12:52:51.928944+00:00",
+  "source": "Oxford University Press metadata deposited with Crossref"
+}
