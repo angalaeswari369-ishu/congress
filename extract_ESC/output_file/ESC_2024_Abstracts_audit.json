@@ -1,0 +1,16 @@
+{
+  "congress": "ESC",
+  "journal": "European Heart Journal",
+  "supplement_url": "https://academic.oup.com/eurheartj/issue/45/Supplement_1",
+  "year": 2024,
+  "volume": "45",
+  "publication_year_used": 2024,
+  "issue": "Supplement_1",
+  "screened_journal_records": 4801,
+  "matched_supplement_records": 3899,
+  "unique_dois": 3899,
+  "successful_with_abstract": 3899,
+  "incomplete": 0,
+  "generated_utc": "2026-10-15T11:57:41.856116+00:00",
+  "source": "Oxford University Press metadata deposited with Crossref"
+}
