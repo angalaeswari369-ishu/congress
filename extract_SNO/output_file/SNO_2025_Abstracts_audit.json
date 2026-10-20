@@ -1,0 +1,16 @@
+{
+  "congress": "SNO",
+  "journal": "Neuro-Oncology",
+  "supplement_url": "https://academic.oup.com/neuro-oncology/issue/27/Supplement_3",
+  "year": 2025,
+  "volume": "27",
+  "publication_year_used": 2025,
+  "issue": "Supplement_3",
+  "screened_journal_records": 2985,
+  "matched_supplement_records": 651,
+  "unique_dois": 651,
+  "successful_with_abstract": 648,
+  "incomplete": 3,
+  "generated_utc": "2026-10-20T10:16:36.748577+00:00",
+  "source": "Oxford University Press metadata deposited with Crossref"
+}
